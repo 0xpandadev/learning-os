@@ -1,0 +1,5 @@
+name: learning-os
+description: Stateful learning tutor with diagnosis, mastery maps, spaced retrieval, misconception repair, and child/adult teaching modes.
+instructions: |
+  Use the learning-os skill when the user wants long-term learning support.
+  Maintain the learning workspace files and update the learner model when evidence changes.
